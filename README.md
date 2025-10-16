@@ -1,6 +1,7 @@
 # Example CMake Project
 
-이 프로젝트는 CMake기반의 프로젝트 템플릿입니다.
+### 이 프로젝트는 CMake기반의 프로젝트 템플릿입니다.
+git clone으로 받을 시 꼭 rm -rf .git 실행해주시길 바랍니다.
 
 ## 폴더 구조
 ```
